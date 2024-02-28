@@ -344,7 +344,7 @@ footer {
     }
 
     .introduction {
-        width: 19rem;
+        width: 18rem;
     }
 
     .intro_head>h4 {
@@ -388,7 +388,7 @@ footer {
     }
 
     .footer>p {
-        font-size: 0.44rem;
+        font-size: 0.43rem;
         margin: 0.3rem 0;
     }
 }
